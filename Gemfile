@@ -25,7 +25,7 @@ gem 'jbuilder', '~> 2.7'
 
 # Use Active Storage variant
 gem 'active_storage_validations'
-gem 'image_processing', '~> 1.2'
+gem 'image_processing', '~> 1.12'
 gem 'mini_magick'
 
 # Japanese localization of rails
